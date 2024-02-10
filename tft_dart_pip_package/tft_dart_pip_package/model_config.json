@@ -1,0 +1,10 @@
+{
+    "hidden_size" : 64,
+    "lstm_layers" : 1,
+    "num_attention_heads" : 4,
+    "dropout" : 0.1,
+    "batch_size" : 16,
+    "n_epochs" : 300,
+    "input_len" : 40,
+    "horizon_len" : 10
+}
